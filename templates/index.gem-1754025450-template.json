@@ -1,0 +1,322 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
+{
+  "sections": {
+    "slideshow": {
+      "type": "slideshow",
+      "blocks": {
+        "slideshow-0": {
+          "type": "image",
+          "settings": {
+            "top_subheading": "",
+            "title": "Iron Owl",
+            "title_size": 80,
+            "subheading": "Beautiful Metal Art",
+            "link": "shopify:\/\/collections\/all",
+            "link_text": "Shop Now",
+            "link_2": "shopify:\/\/collections\/all",
+            "link_text_2": "",
+            "color_accent": "#ffffff",
+            "text_align": "vertical-center horizontal-center",
+            "image": "shopify:\/\/shop_images\/iron_owl_homepage-banner.jpg",
+            "parallax_direction": "top",
+            "overlay_opacity": 0
+          }
+        }
+      },
+      "block_order": [
+        "slideshow-0"
+      ],
+      "settings": {
+        "section_height": "natural",
+        "mobile_height": "auto",
+        "parallax": false,
+        "style": "bars",
+        "autoplay": true,
+        "autoplay_speed": 7,
+        "lazyload_images": true,
+        "class": ""
+      }
+    },
+    "featured_collections_BjGpjN": {
+      "type": "featured-collections",
+      "blocks": {
+        "collection_QRmqRC": {
+          "type": "collection",
+          "settings": {
+            "collection": "rusty-metal-signs",
+            "title": "",
+            "focal_point": "center center"
+          }
+        },
+        "collection_Kd7dL7": {
+          "type": "collection",
+          "settings": {
+            "collection": "hanging-mobiles",
+            "title": "",
+            "focal_point": "center center"
+          }
+        },
+        "collection_gRH8bf": {
+          "type": "collection",
+          "settings": {
+            "collection": "key-chains",
+            "title": "",
+            "focal_point": "center center"
+          }
+        },
+        "collection_8DeBpj": {
+          "type": "collection",
+          "settings": {
+            "collection": "magnets",
+            "title": "",
+            "focal_point": "center center"
+          }
+        },
+        "collection_W7EDEB": {
+          "type": "collection",
+          "settings": {
+            "collection": "ornaments",
+            "title": "",
+            "focal_point": "center center"
+          }
+        }
+      },
+      "block_order": [
+        "collection_QRmqRC",
+        "collection_Kd7dL7",
+        "collection_gRH8bf",
+        "collection_8DeBpj",
+        "collection_W7EDEB"
+      ],
+      "settings": {
+        "title": "",
+        "divider": false,
+        "per_row": 5,
+        "enable_gutter": true
+      }
+    },
+    "featured_collection_nH47Xz": {
+      "type": "featured-collection",
+      "settings": {
+        "title": "Featured Products",
+        "home_featured_products": "home-page",
+        "per_row": 4,
+        "rows": 1,
+        "mobile_scrollable": true,
+        "view_all": true,
+        "divider": false
+      }
+    },
+    "slideshow_CjpbeP": {
+      "type": "slideshow",
+      "blocks": {
+        "image_ethawD": {
+          "type": "image",
+          "settings": {
+            "top_subheading": "",
+            "title": "Our Aim",
+            "title_size": 54,
+            "subheading": "Our aim here at Iron Owl is simple yet profound: to spread joy, warmth, and a dash of quirkiness through our unique metal creations. We believe that art should not only be beautiful, but also evoke emotions, tell stories, and create connections.",
+            "link": "shopify:\/\/collections",
+            "link_text": "Shop Now",
+            "link_2": "",
+            "link_text_2": "",
+            "color_accent": "#ffffff",
+            "text_align": "vertical-center horizontal-right",
+            "image": "shopify:\/\/shop_images\/banner-2.jpg",
+            "parallax_direction": "top",
+            "overlay_opacity": 0
+          }
+        }
+      },
+      "block_order": [
+        "image_ethawD"
+      ],
+      "settings": {
+        "section_height": "natural",
+        "mobile_height": "auto",
+        "parallax": false,
+        "style": "bars",
+        "autoplay": false,
+        "autoplay_speed": 5,
+        "lazyload_images": true,
+        "class": "bottom_banner"
+      }
+    },
+    "featured_collections_AWtLrH": {
+      "type": "featured-collections",
+      "blocks": {
+        "collection_MhnLMe": {
+          "type": "collection",
+          "settings": {
+            "collection": "wind-chimes",
+            "title": "",
+            "focal_point": "center center"
+          }
+        },
+        "collection_GTY4m9": {
+          "type": "collection",
+          "settings": {
+            "collection": "christmas",
+            "title": "",
+            "focal_point": "center center"
+          }
+        },
+        "collection_wHQ3MY": {
+          "type": "collection",
+          "settings": {
+            "collection": "halloween",
+            "title": "",
+            "focal_point": "center center"
+          }
+        }
+      },
+      "block_order": [
+        "collection_MhnLMe",
+        "collection_GTY4m9",
+        "collection_wHQ3MY"
+      ],
+      "settings": {
+        "title": "",
+        "divider": false,
+        "per_row": 3,
+        "enable_gutter": true
+      }
+    },
+    "testimonials_fNPGGJ": {
+      "type": "testimonials",
+      "blocks": {
+        "testimonial_ChRHLW": {
+          "type": "testimonial",
+          "settings": {
+            "icon": "quote",
+            "testimonial": "<p>Iron Owl has a wide variety of attractive and fun metal decor from lawn stakes to hanging pieces and holiday decor. I love the products, they are unique and there is absolutely something for everyone.<\/p>",
+            "author": "- Cheryl M",
+            "author_info": ""
+          }
+        },
+        "testimonial_hM8yh4": {
+          "type": "testimonial",
+          "disabled": true,
+          "settings": {
+            "icon": "quote",
+            "testimonial": "<p>Iron Owl began with a simple love for the outdoors — from birds in the trees to flowers in full bloom. Nature has always felt like home to us, and we wanted to bring a little of that magic into everyday life.<\/p>",
+            "author": "- Cheryl M",
+            "author_info": ""
+          }
+        },
+        "testimonial_BBtryh": {
+          "type": "testimonial",
+          "settings": {
+            "icon": "quote",
+            "testimonial": "<p>Iron Owl is my favorite go to shop for fun metal pieces for my garden and yard. I've also found sweets gifts and one of a kind designs for holidays and celebrations. I highly recommend Iron Owl<\/p>",
+            "author": "- Liz E",
+            "author_info": ""
+          }
+        },
+        "testimonial_88Eq3d": {
+          "type": "testimonial",
+          "settings": {
+            "icon": "quote",
+            "testimonial": "<p>My yard went from 'meh' to 'wonderful' thanks to Iron Owl! Their metal creations are sprinkled across my lawn and patio. Every time I walk through my yard, I can't help but smile. Thank you for turning my outdoor space into a place I love to hang out in. I am a forever customer!<\/p>",
+            "author": "- Barb H.",
+            "author_info": ""
+          }
+        },
+        "testimonial_heGt6M": {
+          "type": "testimonial",
+          "disabled": true,
+          "settings": {
+            "icon": "quote",
+            "testimonial": "<p>In the spring of 2023, Iron Owl Metal Art was born. Each piece of our yard art and home décor is crafted with care, inspired by the beauty we see outside, and made to add warmth and wonder to your favorite spaces.<\/p>",
+            "author": "- Barb H.",
+            "author_info": ""
+          }
+        }
+      },
+      "block_order": [
+        "testimonial_ChRHLW",
+        "testimonial_hM8yh4",
+        "testimonial_BBtryh",
+        "testimonial_88Eq3d",
+        "testimonial_heGt6M"
+      ],
+      "settings": {
+        "title": "What our client say",
+        "align_text": "center",
+        "round_images": true,
+        "color_background": "#e6e1db",
+        "color_text": "#000000"
+      }
+    },
+    "text_and_image_chaCbj": {
+      "type": "text-and-image",
+      "settings": {
+        "image": "shopify:\/\/shop_images\/about.jpg",
+        "image_mask": "none",
+        "image2_mask": "none",
+        "subtitle": "",
+        "title": "Iron Owl",
+        "text": "<p>Welcome to Iron Owl where creativity meets craftsmanship, and passion melds with metal. We are a one-of-a-kind company that breathes life into metal, turning it into fun, quirky, and caring works of art. Our journey began with a shared love for creativity and a desire to infuse personality and character into the world of metalwork.<\/p>",
+        "button_label": "Read More",
+        "button_link": "shopify:\/\/products\/sun-moon-spinner-garden-stake",
+        "button_style": "primary",
+        "align_text": "center",
+        "image_width": "50",
+        "layout": "right",
+        "divider": false,
+        "top_padding": true,
+        "bottom_padding": true,
+        "lazyload_images": true
+      }
+    },
+    "17459062228ccccbd4": {
+      "type": "apps",
+      "blocks": {
+        "instafeed_app_block_CRWefq": {
+          "type": "shopify:\/\/apps\/instafeed\/blocks\/app-block\/c447db20-095d-4a10-9725-b5977662c9d5",
+          "settings": {
+            "title": "Follow us on Instagram",
+            "title_color": "",
+            "title_size_v2": 0,
+            "alignment": "center",
+            "instafeed_margin_top": 0,
+            "instafeed_margin_bottom": 0,
+            "instafeed_margin_sides": 0,
+            "show_instagram_link": false,
+            "link_alignment": "left",
+            "link_color": "#000000",
+            "background_color": "",
+            "feed_id": "",
+            "html_area": ""
+          }
+        }
+      },
+      "block_order": [
+        "instafeed_app_block_CRWefq"
+      ],
+      "settings": {
+        "full_width": false,
+        "space_around": true
+      }
+    }
+  },
+  "order": [
+    "slideshow",
+    "featured_collections_BjGpjN",
+    "featured_collection_nH47Xz",
+    "slideshow_CjpbeP",
+    "featured_collections_AWtLrH",
+    "testimonials_fNPGGJ",
+    "text_and_image_chaCbj",
+    "17459062228ccccbd4"
+  ]
+}
