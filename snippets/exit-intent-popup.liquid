@@ -135,12 +135,12 @@ if (typeof ShopifyAnalytics !== 'undefined' && typeof ShopifyAnalytics.meta.page
   }
 
   // --- Mobile exit intent ---
-  function onMobileBack() {alert('back');
+  function onMobileBack() {//alert('back');
     showPopup();
     window.removeEventListener("popstate", onMobileBack);
   }
 
-  function onMobileScroll() {alert(5);
+  function onMobileScroll() {//alert(5);
     if (window.scrollY <= 50) { // near top
       showPopup();
       window.removeEventListener("scroll", onMobileScroll);
@@ -151,13 +151,13 @@ if (typeof ShopifyAnalytics !== 'undefined' && typeof ShopifyAnalytics.meta.page
   CLOSE_BTN.addEventListener("click", hidePopup);
 
   // --- Init ---
-  document.addEventListener("DOMContentLoaded", () => {alert(3);
+  document.addEventListener("DOMContentLoaded", () => {//alert(3);
     if (!getCookie(COOKIE_KEY)) {
       // Desktop
       window.addEventListener("mouseout", onMouseOut);
 
       // Mobile detection
-      if (/Mobi|Android/i.test(navigator.userAgent)) {alert(4);
+      if (/Mobi|Android/i.test(navigator.userAgent)) {//alert(4);
         // Back button
         window.history.pushState({popup: true}, "");
         window.addEventListener("popstate", onMobileBack);
