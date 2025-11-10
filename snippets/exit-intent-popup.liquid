@@ -151,8 +151,8 @@ if (typeof ShopifyAnalytics !== 'undefined' && typeof ShopifyAnalytics.meta.page
   CLOSE_BTN.addEventListener("click", hidePopup);
 
   // --- Init ---
-  document.addEventListener("DOMContentLoaded", () => {//alert(3);
-    if (!getCookie(COOKIE_KEY)) {
+  document.addEventListener("DOMContentLoaded", () => {//
+    if (!getCookie(COOKIE_KEY)) {alert(3);
       // Desktop
       window.addEventListener("mouseout", onMouseOut);
 
